@@ -1,10 +1,6 @@
 # Hi, I'm 8mty👋
 ### 🛡️ InfoSec Specialist | DevSecOps | Low-level Developer
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
