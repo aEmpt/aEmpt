@@ -13,6 +13,3 @@
 - 📟 **Low-Level:** Programming in **C++** and **Assembly** for performance and security research.
 - 💻 **OS Hardening:** Advanced experience with both **Linux** (Kernel, Bash) and **Windows** (Internal, PowerShell).
 ---
-<p align="center">
-  <img src="https://komarev.com" alt="Views" />
-</p>
