@@ -2,7 +2,7 @@
 set -e
 
 # 1. Обновление системы
-sudo xbps-install -syu
+sudo xbps-install -Syu
 
 # 2. Установка софта (Добавлен mesa-dri для графики AMD и seatd для сессий)
 # Пакет xorg-server-xwayland возвращен в зависимости, так как Cutter/GDB могут использовать X11 плагины.
