@@ -1,11 +1,25 @@
-# Hi, I'm 8mty👋
-### 🛡️ InfoSec Specialist | DevSecOps | Low-level Developer
+# 👋 Hi, I'm Empty
+
+### 🚀 About Me
+- 💻 **Main Focus:** Software Development & Reverse Engineering.
+- 🔍 **Passions:** Malware analysis, binary exploitation, and low-level coding.
+- 🛠️ **Environment:** Daily driving both Windows and Linux OS.
 
 ---
 
-### 👨‍💻 About Me
-- 🛡️ **Cybersecurity:** Focused on penetration testing, hardening, and threat modeling.
-- ⚙️ **DevSecOps:** Building secure CI/CD pipelines with **Docker**, **K8s**, and **GitHub Actions**.
-- 📟 **Low-Level:** Programming in **C++** and **Assembly** for performance and security research.
-- 💻 **OS Hardening:** Advanced experience with both **Linux** (Kernel, Bash) and **Windows** (Internal, PowerShell).
+### 🧰 Tech Stack & Tools
+
+#### 💻 Programming Languages
+- **C / C++** (High-performance tools, system utilities)
+- **Assembly (x86/x64)** (Exploit dev, low-level analysis)
+- **Python** (Automation scripts, exploit payloads, tooling)
+
+#### 🔬 Reverse Engineering & Labs
+- **Ghidra** (Static analysis, decompilation)
+- **Virtual Machines** (Isolated environments for dynamic analysis, malware execution)
+
+#### 🖥️ Operating Systems
+- **Windows** (WinAPI, internals analysis)
+- **Linux** (Kernel basics, bash scripting, daily workflow)
+
 ---
